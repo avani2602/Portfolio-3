@@ -1,0 +1,33 @@
+h1 {
+    color: #FFFFFF;
+}
+.header{
+    border: solid;
+    background-color: #AF1277;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: #AD67FF;
+}
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #F08080;
+    border: solid;
+}
+.subgames{
+    border-style: dotted;
+    border-color: #000000;
+}
+.socialMedia{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #FFE4C4;
+}
